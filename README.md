@@ -20,6 +20,7 @@ The original game was scrapped before the map was finalised, so this recovery sh
 - **Broken cutscenes:** Most of the original cutscenes broke. I recorded replacement cutscenes and included them as MP4 videos instead.
 - **Suit changes during cutscenes:** Recorded cutscenes do not reflect the player's currently selected suit. A character's suit may change when a cutscene starts and change back when gameplay resumes.
 - **Suit issues:** Some suits may be bugged, and some suits are not currently available.
+- **Simplified suit system:** The original build I found allowed certain aspects of each player’s suit—and each supporting NPC’s suit in singleplayer—to be customised. That system was too difficult for me to implement, so I made a few preset suits instead. The suits in this recovery do not fully represent the original build’s intended system.
 - **Audio does not currently work:** I have not found the original audio for any cutscene or character. I have tried my best to find suitable replacement SFX, but audio remains incomplete and is not currently working.
 - **Multiplayer crashes:** Multiplayer is currently broken and crashes when used. It is not currently playable.
 - **Incomplete port:** Features and content may be missing or fail to work while porting is still underway. A bug-free experience is not guaranteed.
@@ -33,6 +34,18 @@ To run a PS5 build when one becomes available, you need:
 - ShadowMount+.
 
 Build-specific installation instructions and any additional requirements will be provided with a release.
+
+## Possible release timing
+
+An actual bootable dump may become available around **mid-2027**. Please do not take this as a confirmed release date or a promise—it is only a rough approximation and may change.
+
+I am a student working on this alone, so progress depends on my available time, studies, and the difficulties I encounter during development.
+
+## Updates and YouTube
+
+I have a YouTube channel where I will post about the project and its progress:
+
+https://youtube.com/@bluecode-bcs
 
 ## Before playing
 
